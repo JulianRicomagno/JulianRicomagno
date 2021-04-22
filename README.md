@@ -4,7 +4,7 @@
 <h3 aling="lef">🌱 Me gusta pasar tiempo en familia y hacer musica con amigos</h3>
 
 <div>
- <h3 align="left">Para que me sepas un poquito mas de mi:</h3>
+ <h3 align="left">Para que sepas un poquito mas de mi:</h3>
 <a href="https://www.linkedin.com/in/julian-ricomagno-7374a5199/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/julian-ricomagno-7374a5199/" height="30" width="40" /></a> <br/>
 </div>
 
